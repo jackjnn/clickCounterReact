@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Visualizing the app
 
-![Screenshot of the app](/click2count.gif)
+![Gif of the app](/click2count.gif)
 
 ## Available Scripts
 
